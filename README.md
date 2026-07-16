@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Ritik Mishra
+# Hi I'm Ritik Mishra
 
 ### Mathematics & Computing @ RGIPT
 
@@ -48,7 +48,7 @@ NeuroForge aims to become a complete machine learning framework featuring:
 Every commit represents another step toward building NeuroForge.
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amor_eng&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amor-eng&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
